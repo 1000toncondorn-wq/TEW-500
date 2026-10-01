@@ -1,0 +1,10 @@
+# Configuración local
+config/db.php
+
+# Diagnóstico
+test.php
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
